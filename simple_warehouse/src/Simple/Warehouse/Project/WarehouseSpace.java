@@ -5,6 +5,5 @@ public interface WarehouseSpace {
 	 	boolean isOccupied();
 	    char getProductCode();
 	    void setProductCode(char productCode);
-	    
-
+	  
 }
